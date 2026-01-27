@@ -1,0 +1,129 @@
+2026/01/12-01:27:50.039 748 Reusing MANIFEST C:\xampp\htdocs\skillance-core-enggine\Skillance Gateway\.wwebjs_auth\session-pJvVhTj7jPcxKjqUdY1L\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/12-01:27:50.040 748 Recovering log #125
+2026/01/12-01:27:50.058 748 Reusing old log C:\xampp\htdocs\skillance-core-enggine\Skillance Gateway\.wwebjs_auth\session-pJvVhTj7jPcxKjqUdY1L\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000125.log 
+2026/01/12-01:27:50.059 748 Delete type=2 #122
+2026/01/12-01:27:50.059 748 Delete type=2 #123
+2026/01/12-01:27:50.059 748 Delete type=2 #126
+2026/01/12-01:27:51.937 9f4 Level-0 table #131: started
+2026/01/12-01:27:51.962 9f4 Level-0 table #131: 384161 bytes OK
+2026/01/12-01:27:51.966 9f4 Delete type=0 #125
+2026/01/12-01:27:51.967 748 Manual compaction at level-0 from '\x00)\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00*\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/12-01:27:52.030 4ee4 Compacting 1@1 + 2@2 files
+2026/01/12-01:27:52.116 4ee4 Generated table #132@1: 49520 keys, 2218006 bytes
+2026/01/12-01:27:52.144 4ee4 Generated table #133@1: 20757 keys, 668450 bytes
+2026/01/12-01:27:52.144 4ee4 Compacted 1@1 + 2@2 files => 2886456 bytes
+2026/01/12-01:27:52.145 4ee4 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/01/12-01:27:52.146 4ee4 Delete type=2 #127
+2026/01/12-01:27:52.146 4ee4 Delete type=2 #128
+2026/01/12-01:27:52.146 4ee4 Delete type=2 #131
+2026/01/12-10:51:32.858 9f4 Level-0 table #135: started
+2026/01/12-10:51:32.910 9f4 Level-0 table #135: 1298553 bytes OK
+2026/01/12-10:51:32.917 9f4 Delete type=0 #130
+2026/01/12-10:51:33.056 4ee4 Compacting 1@1 + 2@2 files
+2026/01/12-10:51:33.227 4ee4 Generated table #136@1: 52183 keys, 2211864 bytes
+2026/01/12-10:51:33.233 4ee4 Level-0 table #139: started
+2026/01/12-10:51:33.279 4ee4 Level-0 table #139: 1266633 bytes OK
+2026/01/12-10:51:33.283 4ee4 Delete type=0 #134
+2026/01/12-10:51:33.341 4ee4 Generated table #137@1: 21883 keys, 869798 bytes
+2026/01/12-10:51:33.341 4ee4 Compacted 1@1 + 2@2 files => 3081662 bytes
+2026/01/12-10:51:33.343 4ee4 compacted to: files[ 1 0 2 0 0 0 0 ]
+2026/01/12-10:51:33.344 4ee4 Delete type=2 #132
+2026/01/12-10:51:33.344 4ee4 Delete type=2 #133
+2026/01/12-10:51:33.344 4ee4 Delete type=2 #135
+2026/01/12-10:56:10.900 4ee4 Moved #139 to level-1 1266633 bytes OK: files[ 0 1 2 0 0 0 0 ]
+2026/01/12-11:06:01.899 748 Compacting 1@1 + 2@2 files
+2026/01/12-11:06:02.025 748 Generated table #140@1: 52356 keys, 2213241 bytes
+2026/01/12-11:06:02.077 748 Generated table #141@1: 21934 keys, 880371 bytes
+2026/01/12-11:06:02.078 748 Compacted 1@1 + 2@2 files => 3093612 bytes
+2026/01/12-11:06:02.079 748 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/01/12-11:06:02.080 748 Delete type=2 #136
+2026/01/12-11:06:02.080 748 Delete type=2 #137
+2026/01/12-11:06:02.080 748 Delete type=2 #139
+2026/01/12-13:23:05.224 4ee4 Level-0 table #143: started
+2026/01/12-13:23:05.275 4ee4 Level-0 table #143: 1187801 bytes OK
+2026/01/12-13:23:05.282 4ee4 Delete type=0 #138
+2026/01/12-13:23:09.095 4ee4 Compacting 1@1 + 2@2 files
+2026/01/12-13:23:09.240 4ee4 Generated table #144@1: 52725 keys, 2215107 bytes
+2026/01/12-13:23:09.298 4ee4 Generated table #145@1: 21433 keys, 783090 bytes
+2026/01/12-13:23:09.298 4ee4 Compacted 1@1 + 2@2 files => 2998197 bytes
+2026/01/12-13:23:09.299 4ee4 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/01/12-13:23:09.301 4ee4 Delete type=2 #140
+2026/01/12-13:23:09.302 4ee4 Delete type=2 #141
+2026/01/12-13:23:09.302 4ee4 Delete type=2 #143
+2026/01/12-13:49:38.795 748 Level-0 table #147: started
+2026/01/12-13:49:38.841 748 Level-0 table #147: 1208927 bytes OK
+2026/01/12-13:49:38.849 748 Delete type=0 #142
+2026/01/12-13:50:25.008 748 Compacting 1@1 + 2@2 files
+2026/01/12-13:50:25.144 748 Generated table #148@1: 54172 keys, 2215525 bytes
+2026/01/12-13:50:25.202 748 Generated table #149@1: 22018 keys, 916550 bytes
+2026/01/12-13:50:25.203 748 Compacted 1@1 + 2@2 files => 3132075 bytes
+2026/01/12-13:50:25.204 748 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/01/12-13:50:25.205 748 Delete type=2 #144
+2026/01/12-13:50:25.205 748 Delete type=2 #145
+2026/01/12-13:50:25.205 748 Delete type=2 #147
+2026/01/12-14:00:16.289 9f4 Level-0 table #151: started
+2026/01/12-14:00:16.333 9f4 Level-0 table #151: 1324659 bytes OK
+2026/01/12-14:00:16.339 9f4 Delete type=0 #146
+2026/01/12-14:00:29.443 4ee4 Compacting 1@1 + 2@2 files
+2026/01/12-14:00:29.515 4ee4 Generated table #152@1: 54431 keys, 2216489 bytes
+2026/01/12-14:00:29.550 4ee4 Generated table #153@1: 22047 keys, 925116 bytes
+2026/01/12-14:00:29.550 4ee4 Compacted 1@1 + 2@2 files => 3141605 bytes
+2026/01/12-14:00:29.552 4ee4 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/01/12-14:00:29.553 4ee4 Delete type=2 #148
+2026/01/12-14:00:29.553 4ee4 Delete type=2 #149
+2026/01/12-14:00:29.553 4ee4 Delete type=2 #151
+2026/01/12-14:10:34.619 4ee4 Level-0 table #155: started
+2026/01/12-14:10:34.668 4ee4 Level-0 table #155: 1271961 bytes OK
+2026/01/12-14:10:34.671 4ee4 Delete type=0 #150
+2026/01/12-14:18:00.891 4ee4 Compacting 1@1 + 2@2 files
+2026/01/12-14:18:01.001 4ee4 Generated table #156@1: 54471 keys, 2216112 bytes
+2026/01/12-14:18:01.067 4ee4 Generated table #157@1: 22060 keys, 927500 bytes
+2026/01/12-14:18:01.067 4ee4 Compacted 1@1 + 2@2 files => 3143612 bytes
+2026/01/12-14:18:01.069 4ee4 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/01/12-14:18:01.069 4ee4 Delete type=2 #152
+2026/01/12-14:18:01.069 4ee4 Delete type=2 #153
+2026/01/12-14:18:01.069 4ee4 Delete type=2 #155
+2026/01/12-14:30:07.889 748 Level-0 table #159: started
+2026/01/12-14:30:07.939 748 Level-0 table #159: 1268074 bytes OK
+2026/01/12-14:30:07.945 748 Delete type=0 #154
+2026/01/12-14:30:24.283 4ee4 Compacting 1@1 + 2@2 files
+2026/01/12-14:30:24.410 4ee4 Generated table #160@1: 54497 keys, 2216264 bytes
+2026/01/12-14:30:24.472 4ee4 Generated table #161@1: 22110 keys, 930073 bytes
+2026/01/12-14:30:24.473 4ee4 Compacted 1@1 + 2@2 files => 3146337 bytes
+2026/01/12-14:30:24.474 4ee4 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/01/12-14:30:24.475 4ee4 Delete type=2 #156
+2026/01/12-14:30:24.475 4ee4 Delete type=2 #157
+2026/01/12-14:30:24.475 4ee4 Delete type=2 #159
+2026/01/12-19:12:21.074 4ee4 Level-0 table #163: started
+2026/01/12-19:12:21.119 4ee4 Level-0 table #163: 1327582 bytes OK
+2026/01/12-19:12:21.123 4ee4 Delete type=0 #158
+2026/01/12-19:12:21.129 4ee4 Compacting 1@1 + 2@2 files
+2026/01/12-19:12:21.315 4ee4 Generated table #164@1: 55114 keys, 2213976 bytes
+2026/01/12-19:12:21.390 4ee4 Generated table #165@1: 26901 keys, 1145600 bytes
+2026/01/12-19:12:21.391 4ee4 Compacted 1@1 + 2@2 files => 3359576 bytes
+2026/01/12-19:12:21.392 4ee4 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/01/12-19:12:44.021 748 Level-0 table #167: started
+2026/01/12-19:12:44.081 748 Level-0 table #167: 1310648 bytes OK
+2026/01/12-19:12:44.088 748 Delete type=2 #160
+2026/01/12-19:12:44.088 748 Delete type=2 #161
+2026/01/12-19:12:44.088 748 Delete type=0 #162
+2026/01/12-19:12:44.088 748 Delete type=2 #163
+2026/01/12-19:13:02.169 4ee4 Compacting 1@1 + 2@2 files
+2026/01/12-19:13:02.322 4ee4 Generated table #168@1: 49466 keys, 2204023 bytes
+2026/01/12-19:13:02.425 4ee4 Generated table #169@1: 33878 keys, 1378512 bytes
+2026/01/12-19:13:02.425 4ee4 Compacted 1@1 + 2@2 files => 3582535 bytes
+2026/01/12-19:13:02.426 4ee4 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/01/12-19:13:02.427 4ee4 Delete type=2 #164
+2026/01/12-19:13:02.427 4ee4 Delete type=2 #165
+2026/01/12-19:13:02.428 4ee4 Delete type=2 #167
+2026/01/12-19:54:52.940 4ee4 Level-0 table #171: started
+2026/01/12-19:54:52.974 4ee4 Level-0 table #171: 1178671 bytes OK
+2026/01/12-19:54:52.981 4ee4 Delete type=0 #166
+2026/01/12-19:54:53.584 4ee4 Compacting 1@1 + 2@2 files
+2026/01/12-19:54:53.666 4ee4 Generated table #172@1: 52090 keys, 2208412 bytes
+2026/01/12-19:54:53.714 4ee4 Generated table #173@1: 30223 keys, 1268569 bytes
+2026/01/12-19:54:53.714 4ee4 Compacted 1@1 + 2@2 files => 3476981 bytes
+2026/01/12-19:54:53.715 4ee4 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/01/12-19:54:53.716 4ee4 Delete type=2 #168
+2026/01/12-19:54:53.716 4ee4 Delete type=2 #169
+2026/01/12-19:54:53.716 4ee4 Delete type=2 #171

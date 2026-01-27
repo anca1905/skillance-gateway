@@ -1,0 +1,12 @@
+2026/01/12-01:23:35.357 4504 Reusing MANIFEST C:\xampp\htdocs\skillance-core-enggine\Skillance Gateway\.wwebjs_auth\session-pJvVhTj7jPcxKjqUdY1L\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/12-01:23:35.358 4504 Recovering log #120
+2026/01/12-01:23:35.394 4504 Reusing old log C:\xampp\htdocs\skillance-core-enggine\Skillance Gateway\.wwebjs_auth\session-pJvVhTj7jPcxKjqUdY1L\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000120.log 
+2026/01/12-01:23:39.082 4e60 Level-0 table #126: started
+2026/01/12-01:23:39.106 4e60 Level-0 table #126: 687984 bytes OK
+2026/01/12-01:23:39.108 4e60 Delete type=0 #120
+2026/01/12-01:23:39.109 4a90 Manual compaction at level-0 from '\x00(\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00)\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/12-01:23:39.265 4e60 Compacting 1@1 + 2@2 files
+2026/01/12-01:23:39.397 4e60 Generated table #127@1: 48851 keys, 2210250 bytes
+2026/01/12-01:23:39.438 4e60 Generated table #128@1: 19662 keys, 633643 bytes
+2026/01/12-01:23:39.438 4e60 Compacted 1@1 + 2@2 files => 2843893 bytes
+2026/01/12-01:23:39.439 4e60 compacted to: files[ 0 0 2 0 0 0 0 ]
