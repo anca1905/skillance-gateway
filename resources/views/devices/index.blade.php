@@ -237,7 +237,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
 
     <script>
-        const socket = io("http://localhost:3000"); // Sesuaikan Port Node.js
+        const socket = io("http://localhost:5000"); // Sesuaikan Port Node.js
         let currentToken = "";
 
         function scanQR(token) {
@@ -256,7 +256,7 @@
             socket.emit('join_room', token);
 
             // 2. Request Init Session
-            fetch('http://localhost:3000/init', {
+            fetch('http://localhost:5000/init', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json'

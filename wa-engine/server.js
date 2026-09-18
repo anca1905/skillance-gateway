@@ -6,6 +6,7 @@ const cors = require('cors');
 const fs = require('fs');
 const mysql = require('mysql2/promise'); // Library Database
 const axios = require('axios');
+const path = require('path');
 
 const app = express();
 app.use(cors());
@@ -28,11 +29,12 @@ const dbConfig = {
 };
 
 const sessions = {};
+const SESSION_DIR = path.join(__dirname, '../.wwebjs_auth');
 
 // --- FUNGSI INIT SESSION (Sama seperti sebelumnya) ---
 const initSession = (token) => {
     const client = new Client({
-        authStrategy: new LocalAuth({ clientId: token }),
+        authStrategy: new LocalAuth({ clientId: token, dataPath: SESSION_DIR }),
         puppeteer: { headless: true, args: ['--no-sandbox'] }
     });
 
@@ -198,11 +200,11 @@ app.post('/send-message', async (req, res) => {
 });
 
 // AUTO RESTORE
-const SESSION_DIR = './.wwebjs_auth';
 if (fs.existsSync(SESSION_DIR)) {
     fs.readdirSync(SESSION_DIR).forEach(file => {
         if (file.startsWith('session-')) {
             const token = file.replace('session-', '');
+            console.log("Restoring session for:", token);
             initSession(token);
         }
     });
