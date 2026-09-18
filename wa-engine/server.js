@@ -11,6 +11,11 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
+app.get('/', (req, res) => {
+    res.send('WA Engine is running');
+});
+
+
 const server = http.createServer(app);
 const io = new Server(server, { cors: { origin: "*" } });
 
@@ -19,7 +24,7 @@ const dbConfig = {
     host: 'localhost',
     user: 'root',
     password: '',
-    database: 'db_skillance_gateway' // Pastikan nama DB benar
+    database: 'db_skillance_gateway' 
 };
 
 const sessions = {};
@@ -279,6 +284,8 @@ app.post('/broadcast', async (req, res) => {
     })();
 });
 
-server.listen(3000, () => {
-    console.log('🚀 Skillance Gateway dengan Sistem Kuota Siap!');
+const PORT = process.env.PORT || 5000;
+
+server.listen(PORT, () => {
+    console.log(`🚀 Skillance Gateway running on port ${PORT}`);
 });
